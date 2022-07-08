@@ -1,3 +1,7 @@
 Link para download do Typora:
 
 https://typora.io/
+
+Link para aprofundar no MarkDown
+
+https://www.markdownguide.org/basic-syntax/
